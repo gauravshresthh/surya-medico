@@ -1,0 +1,17 @@
+{
+  "name": "surya-medico",
+  "version": "1.0.0",
+  "description": "Surya medico chat application for doctors",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chat",
+    "app",
+    "for",
+    "doctors"
+  ],
+  "author": "Gaurav Shrestha",
+  "license": "MIT"
+}
